@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1024832465615",
+    "project_id": "cosmeticdeliveryapp",
+    "storage_bucket": "cosmeticdeliveryapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024832465615:android:030c88489f2dc11821a5ba",
+        "android_client_info": {
+          "package_name": "com.example.cosmeticdeliveryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024832465615-l7cjin33h8p87hb0dp3ier4q1fkdfcbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmzOgLd7LARgY5YvL_aZnoEVen9ig3F9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024832465615-l7cjin33h8p87hb0dp3ier4q1fkdfcbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
